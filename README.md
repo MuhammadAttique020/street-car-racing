@@ -33,6 +33,42 @@ It will be car racing Game and we will share information about our game
         In avatar models games the first person camera model or third person camera model is used.
         The examples of avatar models games are Arena and the Legends of Korra types of game are the avatar interaction model games
         </p>
+    <html>
+<title>Game development Assignment1</title>
+<head>
+    <title>Game development Assignment1</title>
+    </head>
+
+<body>
+<h1> Executive summary</h1>    
+<dt>Objective</dt>
+    <dd>
+    <li>The main objective of this game is to win the race means(reach to the finish point before the others players or vehicles) to move on the another level.</li>
+    </dd>
+    <dt>Target Audience</dt>
+    <dd>
+    <li> There is not enough race tracks or race environments for people to go out and have fun or many peoples did not have cars or racing cars to do racing.So we are designing this game for both genders(males and females) to enjoy the racing on their screen but mostly males from age 8 to 25 like to play car racing games.Anyone who has  interst in cars or racing cars love to play car racing games</li>
+    </dd>
+    <dt>Scope of the game</dt>
+    <dd>
+    <li>
+      Scope of our game is that the player can drive one vehcile at a time and will control the same the vehcile from different keys.<br>
+        The player cannot destroy another player car or computer control car.<br>
+        There will be finish line to end the level or race.<br>
+        If player wins the race than he will move to the next level and without winning player cannot move to the next level level.
+        
+        
+        </li>
+    </dd>
+    <dt>Camera Model</dt>
+    <dd>
+    <li>In this game two types of camera model will be used because it’s a racing game the vehicles will be moved in upside to down direction so scrolling up to down camera will be used. The other one camera will be the static first person camera </li>
+    
+    </dd>
+    
+</body>
+
+</html>
 
 
 </body>
