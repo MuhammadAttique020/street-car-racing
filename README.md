@@ -27,6 +27,12 @@ It will be car racing Game and we will share information about our game
         Rendering Module, we adopt the Sprite Graphics technique to decompose the display screen into 7 layers,
         which will be explained in derails in later section. The last part is the Audio Module which generate the
         proper sound under the control of game logic.
+        <h2>Interaction model:</h2>
+    <p>
+        Avatar interaction models games are those games in which user or player interact with the game with the help of avatar. 
+        In avatar models games the first person camera model or third person camera model is used.
+        The examples of avatar models games are Arena and the Legends of Korra types of game are the avatar interaction model games
+        </p>
 
 
 </body>
