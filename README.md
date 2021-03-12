@@ -56,10 +56,10 @@ It will be car racing Game and we will share information about our game
         The player cannot destroy another player car or computer control car.<br>
         There will be finish line to end the level or race.<br>
         If player wins the race than he will move to the next level and without winning player cannot move to the next level level.
-        
-        
+          
         </li>
-    </dd>
+     </dd>
+    
     <dt>Camera Model</dt>
     <dd>
     <li>In this game two types of camera model will be used because it’s a racing game the vehicles will be moved in upside to down direction so scrolling up to down camera will be used. The other one camera will be the static first person camera </li>
