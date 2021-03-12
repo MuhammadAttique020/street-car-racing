@@ -63,7 +63,6 @@ It will be car racing Game and we will share information about our game
     <dt>Camera Model</dt>
     <dd>
     <li>In this game two types of camera model will be used because it’s a racing game the vehicles will be moved in upside to down direction so scrolling up to down camera will be used. The other one camera will be the static first person camera </li>
-    
     </dd>
     
 </body>
