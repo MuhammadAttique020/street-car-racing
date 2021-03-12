@@ -19,6 +19,8 @@ It will be car racing Game and we will share information about our game
         opponents that are controlled by computer in a racing tournament, the player’s goal is to get to the
         destination as soon as possible while trying to avoid bumping to other cars or road object, the final score
         will be posted according to the finishing position, numbers of bumps and the time.
+        When the car hits the another car the car will reduce his speed. if the player reach the finsih lines first than player
+        will win the race and if computer player reach the finish line first than the player will loose the race.
         <br>
         <br>
         This game has some other core mechanics with some other features as well. The racing track will be consists of single road.
@@ -26,7 +28,7 @@ It will be car racing Game and we will share information about our game
         logic of this game, such as to detect bumps to obstacle, speed control based on keyboard input, opponents
         control and road generation, and this module is based on software. The second part is the Screen
         Rendering Module, we adopt the Sprite Graphics technique to decompose the display screen into 7 layers,
-        which will be explained in derails in later section. The last part is the Audio Module which generate the
+        which will be explained in details in later section. The last part is the Audio Module which generate the
         proper sound under the control of game logic.
 
 
