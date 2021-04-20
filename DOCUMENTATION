@@ -48,5 +48,13 @@ It will be car racing Game and we will share information about our game
     <dd>
     <li>In this game two types of camera model will be used because it’s a racing game the vehicles will be moved in upside to down direction so scrolling up to down camera will be used. The other one camera will be the static first person camera </li>    
     </dd>   
+    <h2> Genre </h2>
+    <dd>
+Its an arcade style racing game. In Arcade style racing games put fun and a fast-paced experience above all else, as cars usually compete in unique ways. Whereas in real racing the driver must reduce their speed significantly to take most turns, arcade style racing games generally encourage the player to "powerslide" the car to allow the player to keep up their speed by drifting through a turn. 
+Collisions with other racers, track obstacles or traffic vehicles is usually much more exaggerated than simulation racers as well. For the most part, arcade-style racers simply remove the precision and rigor required from the simulation experience and focus strictly on the racing element itself. Races take place on highways, windy roads, or in cities.they can be multiple-lap circuits or point to point sprints, 
+with one or multiple paths sometimes with checkpoints, or other types of competition
+    </dd>
+    
+    
       </body>
 </html>
