@@ -34,7 +34,9 @@ It will be car racing Game and we will share information about our game
     </dd>
     <dt>Target Audience</dt>
     <dd>
-    <li> There is not enough race tracks or race environments for people to go out and have fun or many peoples did not have cars or racing cars to do racing.So we are designing this game for both genders(males and females) to enjoy the racing on their screen but mostly males from age 8 to 25 like to play car racing games.Anyone who has  interst in cars or racing cars love to play car racing games</li>
+    <li> There is not enough race tracks or race environments for people to go out and have fun or many peoples did not have cars or racing cars to do racing.
+    So we are designing this game for both genders(males and females) to enjoy the racing on their screen but mostly males from age 8 to 25 like to play car racing games
+    .Anyone who has  interst in cars or racing cars love to play car racing games</li>
     </dd>
     <dt>Scope of the game</dt>
     <dd> <li>
@@ -46,17 +48,23 @@ It will be car racing Game and we will share information about our game
      </dd>
      <h2>Camera Model</h2>
     <dd>
-    <li>In this game two types of camera model will be used because it’s a racing game the vehicles will be moved in upside to down direction so scrolling up to down camera will be used. The other one camera will be the static first person camera </li>    
+    <li>In this game two types of camera model will be used because it’s a racing game the vehicles will be moved in upside to down direction so scrolling up to down camera 
+    will be used. The other one camera will be the static first person camera </li>    
     </dd>   
     <h2> Genre </h2>
     <dd>
-Its an arcade style racing game. In Arcade style racing games put fun and a fast-paced experience above all else, as cars usually compete in unique ways. Whereas in real racing the driver must reduce their speed significantly to take most turns, arcade style racing games generally encourage the player to "powerslide" the car to allow the player to keep up their speed by drifting through a turn. 
-Collisions with other racers, track obstacles or traffic vehicles is usually much more exaggerated than simulation racers as well. For the most part, arcade-style racers simply remove the precision and rigor required from the simulation experience and focus strictly on the racing element itself. Races take place on highways, windy roads, or in cities.they can be multiple-lap circuits or point to point sprints, 
+Its an arcade style racing game. In Arcade style racing games put fun and a fast-paced experience above all else, as cars usually compete in unique ways.
+Whereas in real racing the driver must reduce their speed significantly to take most turns, arcade style racing games generally encourage the player to "powerslide" 
+the car to allow the player to keep up their speed by drifting through a turn. 
+Collisions with other racers, track obstacles or traffic vehicles is usually much more exaggerated than simulation racers as well.
+For the most part, arcade-style racers simply remove the precision and rigor required from the simulation experience and focus strictly on the racing element itself. 
+Races take place on highways, windy roads, or in cities.they can be multiple-lap circuits or point to point sprints, 
 with one or multiple paths sometimes with checkpoints, or other types of competition
     </dd>
     <h2> Game concept </h2>
     <dd>
-    A car game or racing game is a video game where the player controls a vehicle in a real-world or fantasy environment or track. Car games have an overhead view showing all cars and the track, a third-person view showing their car and nearby cars, or a first-person view inside the car.
+    A car game or racing game is a video game where the player controls a vehicle in a real-world or fantasy environment or track.
+    Car games have an overhead view showing all cars and the track, a third-person view showing their car and nearby cars, or a first-person view inside the car.
     </dd>
     
     
